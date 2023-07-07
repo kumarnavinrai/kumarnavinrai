@@ -1,3 +1,5 @@
 https://docs.kony.com/
 
 https://www.teslaapi.io/
+
+https://www.qt.io/product/framework
